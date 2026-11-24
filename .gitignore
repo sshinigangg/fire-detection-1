@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+
+# Model weights (optional, if large)
+*.pt
+*.onnx
+
+# OS files
+.DS_Store
+Thumbs.db
